@@ -1,0 +1,59 @@
+{
+  "_from": "cordova-plugin-smartadserver",
+  "_id": "cordova-plugin-smartadserver@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-ZxRB9SpwAiyPQFCd9/Dj9Ahy90E=",
+  "_location": "/cordova-plugin-smartadserver",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-smartadserver",
+    "name": "cordova-plugin-smartadserver",
+    "escapedName": "cordova-plugin-smartadserver",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-smartadserver/-/cordova-plugin-smartadserver-1.0.2.tgz",
+  "_shasum": "671441f52a70022c8f40509df7f0e3f40872f741",
+  "_spec": "cordova-plugin-smartadserver",
+  "_where": "/Users/matthieudessarzin/myNewProject",
+  "author": {
+    "name": "Raymond Xie",
+    "email": "rjfun.mobile@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-smart-adserver/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-smartadserver",
+    "platforms": [
+      "android",
+	  "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin for Smart Ad Server to monetize hybrid apps",
+  "homepage": "https://github.com/floatinghotpot/cordova-smart-adserver#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "ad",
+    "smart",
+    "adserver",
+    "rjfun"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-smartadserver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floatinghotpot/cordova-smart-adserver.git"
+  },
+  "version": "1.0.2"
+}
